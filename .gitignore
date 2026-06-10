@@ -430,3 +430,7 @@ FodyWeavers.xsd
 
 # 패키지 업로드 방지
 package/
+
+# 개인정보 보호
+00. pdf/
+*.pdf
